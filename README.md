@@ -38,6 +38,8 @@
 	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavy0606&show_icons=true&locale=en&layout=compact" alt="bhavy0606" /></p>
-
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavy0606&show_icons=true&locale=en&layout=compact" alt="bhavy0606" /></p>
+-->
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavy0606&show_icons=true&locale=en" alt="bhavy0606" /></p>
+-->
