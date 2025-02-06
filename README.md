@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavy0606&label=Profile%20views&color=0e75b6&style=flat" alt="bhavy0606" /> </p>
 
-- 🌱 I’m currently learning **Python**
-
+- 🌱 I’m currently learning <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> **Python** and data visualization.
+- 👷🏻‍♂️ Right now, I am making an <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> **Express.JS** project called mailman 
 - 👨‍💻 All of my projects are available at [https://github.com/Bhavy278/](https://github.com/Bhavy278/)
 
 - 💬 Ask me about **reactjs, nextjs, nodejs, expressjs, mysql, mongodb**
